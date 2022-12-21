@@ -1,8 +1,6 @@
 # Tentang Aplikasi
-Aplikasi ini dibuat untuk memenuhi salah satu tugas di perkuliahan perancangan perangkat lunak. Ide pembuatan apliaksi ini bermula dari use case berikut :
-![http://jeffrynasrifaruki043.blogspot.co.id/2016/11/sistem-informasi-ivt-dan-diagram-uml-nya.html](https://3.bp.blogspot.com/-SPjgmy4u2os/WBXEofDeggI/AAAAAAAACiI/yur94vrtkrQRu848YviqbV-CYMlePAb0QCLcB/s1600/%25281%2529%2BUse%2BCase.png)
-
-Aplikasi ini dibuat tanpa menggunakan framework. Bahasa yang digunakan adalah PHP dengan metode pemrograman OOP (Object Oriented Programming)
+Aplikasi ini dibuat untuk memenuhi salah satu tugas di perkuliahan Desain dan Pengembangan Sistem Terdistribusi
+Aplikasi ini dibuat tanpa menggunakan framework. Bahasa yang digunakan adalah PHP
 
 # Instalasi
 1. Persiapkan aplikasi-aplikasi pendukung :
